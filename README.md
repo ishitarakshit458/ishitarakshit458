@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring MIS & Data Analytics professional with skills in Advanced Excel, Power BI, Tableau, and SQL. I enjoy working with data, creating dashboards, and generating insights to support business decisions. I am continuously developing my analytical and technical skills.
+I am an aspiring Data Analytics professional with skills in Advanced Excel, Power BI, Tableau, and SQL. I enjoy working with data, creating dashboards, and generating insights to support business decisions. I am continuously developing my analytical and technical skills.
 
 
 ## 🌐 Socials:
